@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "50995541755",
+    "firebase_url": "https://stone-media.firebaseio.com",
+    "project_id": "stone-media",
+    "storage_bucket": "stone-media.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50995541755:android:2a0dc99fb4ba6dd6a0e25e",
+        "android_client_info": {
+          "package_name": "com.stoneworld.stonemedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50995541755-24vug0s9sp97cp0vokckmhisvhbg30uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE0mS85AigSiBwTOSglo9ys9x6vaaSrDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50995541755-24vug0s9sp97cp0vokckmhisvhbg30uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
